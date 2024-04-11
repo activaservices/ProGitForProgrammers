@@ -6,5 +6,6 @@ public class Program
         Console.WriteLine("I just added this in Visual Studio");
 		Console.WriteLine("I just added this in the command line repo");
         Console.WriteLine("I just added this to demonstrate the staging area");
+        Console.WriteLine("From the command line ...I just added this to demonstrate the way Branches work);
     }
 }
